@@ -5,7 +5,7 @@ const App = () => {
     <div>
     <header className='header'>
         <div className='nav'>
-      <img src="./src/assets/logo.png" alt="" className='img' />
+      <img src="./src/assets/logoo.png" alt="" className='img'/>
       <ul className='ul'>
         <li className='li'>Home</li>
         <li className='li'>Features</li>
@@ -21,7 +21,7 @@ const App = () => {
 </h1>
         <p>Where to grow your business as a photographer: site or social media?</p>
         <button className='register'>Register</button>
-        <img src="./src/assets/illustration.png" alt="" className='img1' />
+        <img src="./src/assets/stration.png" alt="" className='img1' />
       </div>
       <div className='header_content2'>
         <h2>Our Clients</h2>
@@ -45,7 +45,7 @@ const App = () => {
             <p>Our membership management software provides full automation of membership renewals and payments</p>
           </div>
           <div className="header_content_4">
-            <img src="./src/assets/Frame.png" alt="" />
+            <img src="https://nexcent-page.netlify.app/assets/Frame%2035.png" alt="" />
             <div className="header_text">
             <h2>The unseen of spending three years at Pixelgrade</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet justo ipsum. Sed accumsan quam vitae est varius fringilla. Pellentesque placerat vestibulum lorem sed porta. Nullam mattis tristique iaculis. Nullam pulvinar sit amet risus pretium auctor. Etiam quis massa pulvinar, aliquam quam vitae, tempus sem. Donec elementum pulvinar odio.</p>
