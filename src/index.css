@@ -1,0 +1,229 @@
+.header{
+  width: 480px;
+  margin: 0 auto;
+  text-decoration: none;
+  list-style: none;
+}
+.img{
+  width: 51px;
+  height: 8px;
+  position: relative;
+  left: 50px;
+  top: 2px;
+}
+.nav{
+  height: 29px;
+  background: #FFFFFF;
+  box-shadow: 0px 1.34px 2.67px 0px #ABBED166;
+}
+.ul{
+  display: flex;
+  gap: 8px;
+  text-decoration: none;
+  list-style: none;
+  position: relative;
+  bottom: 24px;
+  left: 180px;
+}
+.li{
+  font-family: Inter;
+  font-weight: 500;
+  font-size: 5.34px;
+  line-height: 8.01px;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #4D4D4D;
+}
+.btn{
+  width: 64px;
+  height: 18px;
+  background-color: #4CAF4F;
+  font-family: Inter;
+  font-weight: 500;
+  font-size: 5.34px;
+  line-height: 8.01px;
+  letter-spacing: 0%;
+  text-align: center;
+  vertical-align: middle;
+  color: #FFFFFF;
+  border: none;
+  position: relative;
+  bottom: 55px;
+  left: 380px;
+}
+.header_content{
+  width: 480px;
+  height: 199px;
+  background: #F5F7FA;
+  position: relative;
+  bottom: 15px;
+}
+.header_content h1{
+  width: 219px;
+  font-family: Inter;
+  font-weight: 600;
+  font-size: 21.37px;
+  line-height: 25.37px;
+  letter-spacing: 0%;
+  color: #4D4D4D;
+  position: relative;
+  top: 52px;
+  left: 50px;
+}
+.header_content p{
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 5.34px;
+  line-height: 8.01px;
+  letter-spacing: 0%;
+  color: #717171;
+  position: relative;
+  top: 38px; 
+  left: 50px;   
+}
+.register{
+  width: 43px;
+  height: 18px;
+  background: #4CAF4F;
+  border: none;
+  font-family: Inter;
+  font-weight: 500;
+  font-size: 5.34px;
+  line-height: 8.01px;
+  letter-spacing: 0%;
+  text-align: center;
+  vertical-align: middle;
+  color: #FFFFFF;  
+  position: relative;
+  left: 50px;
+  bottom: 82px;
+}
+.header_content img{
+  position: relative;
+  left: 250px;
+  bottom: 40px;
+}
+.header_content2 h2{
+  font-family: Inter;
+  font-weight: 600;
+  font-size: 12.02px;
+  line-height: 14.69px;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #4D4D4D;
+  position: relative;
+  bottom: 15px;
+}
+.header_content2 p{
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 5.34px;
+  line-height: 8.01px;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #717171;
+  position: relative;
+  bottom: 20px;
+}
+.header_content2 img{
+  position: relative;
+  left: 50px;
+}
+.header_content2 h3{
+  width: 170px;
+  font-family: Inter;
+  font-weight: 600;
+  font-size: 12.02px;
+  line-height: 14.69px;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #4D4D4D;
+  position: relative;
+  left: 150px;
+}
+.header_content3_cards{
+  display: flex;
+  gap: 42px;
+  position: relative;
+  left: 50px;
+}
+.header_content3_card{
+  width: 99px;
+  height: 88px;
+  background: #FFFFFF;
+  box-shadow: 0px 0.67px 1.34px 0px #ABBED133;
+}
+.header_content3_card img{
+  position: relative;
+  left: 39px;
+  top: 8px;
+}
+.header_content3_card h2{
+  font-family: Inter;
+  font-weight: 700;
+  font-size: 9.35px;
+  line-height: 12.02px;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #4D4D4D;
+  position: relative;
+  top: 2px;
+}
+.header_content3_card p{
+  width: 83px;
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 4.67px;
+  line-height: 6.68px;
+  letter-spacing: 0%;
+  text-align: center;
+  color: #717171;  
+  position: relative;
+  top: 2px;
+
+}
+.header_content_4{
+  display: flex;
+  align-items: center;
+  position: relative;
+  right: 450px;
+  top: 100px;
+}
+.header_text{
+  position: relative;
+  left: 70px;
+}
+.header_text h2{
+  font-family: Inter;
+  font-weight: 600;
+  font-size: 12.02px;
+  line-height: 14.69px;
+  letter-spacing: 0%;
+  color: #4D4D4D;  
+}
+.header_text p{
+  width: 200px;
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 4.67px;
+  line-height: 6.68px;
+  letter-spacing: 0%;
+  color: #717171;  
+}
+.learn{
+  width: 50px;
+  height: 18px;
+  background: #4CAF4F;
+  font-family: Inter;
+  font-weight: 500;
+  font-size: 5.34px;
+  line-height: 8.01px;
+  letter-spacing: 0%;
+  text-align: center;
+  vertical-align: middle;
+  color: #FFFFFF;
+  border: none;
+  position: relative; 
+  left: 5px;
+  bottom: 20px; 
+}
